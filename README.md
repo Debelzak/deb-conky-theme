@@ -4,7 +4,7 @@
 - conky
 - python2
 
-## Installation/
+## Installation
 - `git clone https://github.com/Debelzak/deb-conky-theme.git`
 - `cd deb-conky-theme`
 - `sudo cp -r ./ConkyWeather.ttf /usr/share/fonts/truetype/`
