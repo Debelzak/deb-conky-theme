@@ -9,7 +9,7 @@
 - `cd deb-conky-theme`
 - `sudo cp -r ./ConkyWeather.ttf /usr/share/fonts/truetype/`
 - `sudo ln -s ./conky-startup.sh /usr/profile.d/conky.sh`
-- `sudo reboot"`
+- `sudo reboot`
 
 ## Preview
 ![alt text](https://i.imgur.com/Ch64UHx.png)
